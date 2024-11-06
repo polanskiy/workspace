@@ -1,0 +1,4 @@
+.root {
+  display: flex;
+  grid-column-gap: 8px;
+}
